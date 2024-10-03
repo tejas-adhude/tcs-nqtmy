@@ -1,0 +1,7 @@
+1] https://testbook.com/questions/tcs-nqt-aptitude-questions--64c9018a8ea921b7c0ab3b8c
+
+campusmonk  
+	math 5,8, 9
+	array 9, 10 
+	string 7
+	
